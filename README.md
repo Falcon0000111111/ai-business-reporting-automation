@@ -53,3 +53,9 @@ Sorry for blurry image.*
 ## How to Use
 
 The `My workflow.json` file in this repository can be imported into any n8n instance to replicate this project. The user will need to configure their own credentials for Google Sheets, Google Gemini, and Gmail.
+
+---
+
+## Acknowledgements
+
+This project was adapted and re-engineered from an original concept and workflow demonstrated by Amjid Ali. My key contributions include migrating the data pipeline from MySQL to Google Sheets, customizing the AI prompt for a new business case, and re-configuring the final report delivery system.
